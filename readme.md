@@ -24,6 +24,68 @@
 
 ---
 
+# ⚒️ Usage
+
+## Install
+
+- ### Get it from [Google Chrome Web Store][chromewebstore]
+
+or
+
+- ### Install it manually
+
+First, download the latest released ZIP file from the [releases section][releases] and save it to your computer.
+Then, unzip the file and follow the instructions below, which may vary slightly depending on your browser:
+
+- To access the Extension Management page, visit the following URL: [chrome://extensions][extensions].
+  You can also open the Extension Management page by clicking on your browser's menu and
+  selecting `Extensions -> Manage Extensions`.
+
+- To enable "Developer mode," select the option located at the top right corner of the page.
+
+- Click the `Load unpacked` button, then find the directory where you extracted the release and select it.
+
+- The theme should now be active in your browser. To remove the theme, access your browser's theme or appearance
+  settings and select a different one.
+
+## List of Chromium-based Web Browsers
+
+| Browser                       | Tested | Theme Supported | Browser Developer    |
+| ----------------------------- | ------ | --------------- | -------------------- |
+| [Google Chrome][chrome]       | ✅     | ✅              | Google               |
+| [Microsoft Edge][edge]        | ✅     | ✅              | Microsoft            |
+| [Ungoogle Chromium][chromium] | ✅     | ✅              | Slimjet              |
+| [Vivaldi][vivaldi]            | 🔴     | ☑️              | Vivaldi Technologies |
+| [Opera][opera]                | 🔴     | ☑️              | Opera Software       |
+| [Brave][brave]                | 🔴     | ☑️              | Brave Software       |
+|                               |        |                 |                      |
+
+- ✅ Tested/Supported
+
+- ☑️ Should work in theory
+
+- 🔴 Not Tested
+
+> [!NOTE]
+>
+> This theme uses `Manifest V3` to ensure compatibility with the latest Chromium extension standards.
+
+## Screenshots
+
+![screenshot_01_1280x800_active][screenshot_01_1280x800_active]
+
+![screenshot_02_1280x800_inactive][screenshot_02_1280x800_inactive]
+
+![screenshot_03_1280x800_incognito][screenshot_03_1280x800_incognito]
+
+![screenshot_04_1280x800_appearance][screenshot_04_1280x800_appearance]
+
+![screenshot_05_1280x800_search][screenshot_05_1280x800_search]
+
+<br><p align="right">(<a href="#readme-top">👆 back to top 👆</a>)</p>
+
+---
+
 # 💕 Credits
 
 - I am Programmer [@iamprogrammerlk][iamprogrammer_github]
@@ -137,6 +199,20 @@ See [license][license_md] for more information.
 
 ---
 
+[chromewebstore]: https://chromewebstore.google.com/detail/{{CHROME_EXTENSION_ID}}
+[releases]: /../../releases
+[extensions]: chrome://extensions
+[chrome]: https://www.google.com/chrome/
+[edge]: https://www.microsoft.com/en-us/edge
+[chromium]: https://github.com/ungoogled-software/ungoogled-chromium
+[vivaldi]: https://vivaldi.com/
+[opera]: https://www.opera.com/
+[brave]: https://brave.com/
+[screenshot_01_1280x800_active]: /resource/screenshot/screenshot_01_1280x800_active.png
+[screenshot_02_1280x800_inactive]: /resource/screenshot/screenshot_02_1280x800_inactive.png
+[screenshot_03_1280x800_incognito]: /resource/screenshot/screenshot_03_1280x800_incognito.png
+[screenshot_04_1280x800_appearance]: /resource/screenshot/screenshot_04_1280x800_appearance.png
+[screenshot_05_1280x800_search]: /resource/screenshot/screenshot_05_1280x800_search.png
 [iamprogrammer_github]: https://github.com/iamprogrammerlk
 [iamprogrammer_url]: https://iamprogrammer.lk
 [iamprogrammer_email]: mailto:contact@iamprogrammer.lk
