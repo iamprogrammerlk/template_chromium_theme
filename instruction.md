@@ -103,17 +103,27 @@ understand what options are available for you.
 > }
 > ```
 
-Please remove any unused properties from the `manifest.json` file. If you use `images`, ensure that the image file 
+Please remove any unused properties from the `manifest.json` file. If you use `images`, ensure that the image file
 exists at the specified path and that its dimensions are correct.
-
 
 ## Distribute Your Extension
 
 ### Zip your extension files
 
-To upload your extension to the `Chrome Web Store`, you need to submit a ZIP file that contains all extension files. 
-It requires you to place the manifest file in the **root directory**, not in a sub-folder. Since you're using the 
+To upload your extension to the `Chrome Web Store`, you need to submit a ZIP file that contains all extension files.
+It requires you to place the manifest file in the **root directory**, not in a sub-folder. Since you're using the
 template repository, ensure you compress only the files in the `source` directory.
+
+### Making Github releases
+
+> [!IMPORTANT]
+>
+> Please do not make releases using GitHub Dashboard
+
+If you plan to release a new version on GitHub, avoid using the GitHub dashboard to create the release zip file.
+GitHub will include all the files in your repository, including the .md files and other resources. Doing so,
+Chrome is unable to install the theme using that ZIP file. Please compress only the files in the `source` directory,
+then manually upload the ZIP file to the GitHub releases.
 
 # 🧰 Developer Resources
 
@@ -128,4 +138,3 @@ template repository, ensure you compress only the files in the `source` director
 ### Distribute your extension
 
 - https://developer.chrome.com/docs/webstore/prepare
-
