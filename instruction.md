@@ -106,6 +106,10 @@ understand what options are available for you.
 Please remove any unused properties from the `manifest.json` file. If you use `images`, ensure that the image file
 exists at the specified path and that its dimensions are correct.
 
+> [!NOTE]
+> 
+> The description tag is limited to a maximum of 132 characters.
+
 ## Distribute Your Extension
 
 ### Zip your extension files
