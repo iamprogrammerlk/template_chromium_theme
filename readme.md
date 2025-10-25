@@ -3,14 +3,16 @@
 <br><br>
 
 <div align="center" style="text-align: center;">
-  <a href="https://iamprogrammer.lk">
-    <img src="https://avatars.githubusercontent.com/u/17584831?v=4" alt="iamprogrammer.lk" width="200">
+  <a href="https://iamprogrammer.lk/template_chromium_theme">
+    <img src="resource/promo_tile/marquee_promo_tile_1400x560.png" alt="iamprogrammer.lk" width="100%">
   </a>
 </div>
 
 <br><br>
 
 # {{PROJECT_TITLE}}
+
+_Theme for Chromium-based Web Browsers_
 
 {{PROJECT_DESCRIPTION}}
 
