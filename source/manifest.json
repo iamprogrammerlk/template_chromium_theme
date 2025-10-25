@@ -1,12 +1,12 @@
 {
-  "author": "I am Programmer <contact@iamprogrammer.lk>",
-  "description": "Chrome theme by I am Programmer",
+  "author": "I am Programmer (contact@iamprogrammer.lk)",
+  "description": "Template repository for customizing your browsing experience by designing your unique Chromium-based web browser theme from scratch",
   "icons": {
     "128": "image/store_icon_128x128.png"
   },
   "manifest_version": 3,
-  "name": "Simple Theme",
-  "short_name": "simple_theme",
+  "name": "Template Chromium Theme",
+  "short_name": "template_chromium_theme",
   "theme": {
     "colors": {
       "control_background": [0, 0, 0],
