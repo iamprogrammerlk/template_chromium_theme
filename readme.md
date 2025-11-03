@@ -1,14 +1,16 @@
-<a name="readme-top"></a>
+<a name="page_top"></a>
 
-<br><br>
+<br>
+<br>
 
 <div align="center" style="text-align: center;">
-  <a href="https://iamprogrammer.lk/template_chromium_theme">
-    <img src="resource/promo_tile/marquee_promo_tile_1400x560.png" alt="iamprogrammer.lk" width="100%">
+  <a href="https://{{PROJECT_URL}}">
+    <img src="https://{{PROFILE_IMAGE_URL}}" alt="{{PROJECT_URL}}" width="200">
   </a>
 </div>
 
-<br><br>
+<br>
+<br>
 
 # {{PROJECT_TITLE}}
 
@@ -22,7 +24,10 @@ _Theme for Chromium-based Web Browsers_
 >
 > If you enjoy this project and my work, please consider supporting me giving a ⭐ star ⭐ to this repository.
 
-<br><p align="right">(<a href="#readme-top">👆 back to top 👆</a>)</p>
+<br>
+<br>
+
+<p align="right">(<a href="#page_top">👆 BACK TO TOP 👆</a>)</p>
 
 ---
 
@@ -84,7 +89,10 @@ Then, unzip the file and follow the instructions below, which may vary slightly 
 
 ![screenshot_05_1280x800_search][screenshot_05_1280x800_search]
 
-<br><p align="right">(<a href="#readme-top">👆 back to top 👆</a>)</p>
+<br>
+<br>
+
+<p align="right">(<a href="#page_top">👆 BACK TO TOP 👆</a>)</p>
 
 ---
 
@@ -97,7 +105,10 @@ Then, unzip the file and follow the instructions below, which may vary slightly 
 
 - [Contributors][contributors]
 
-<br><p align="right">(<a href="#readme-top">👆 back to top 👆</a>)</p>
+<br>
+<br>
+
+<p align="right">(<a href="#page_top">👆 BACK TO TOP 👆</a>)</p>
 
 ---
 
@@ -127,7 +138,9 @@ Read more about,
 Get in touch with the project developers and the community through our [Reddit.com Community][community] forum.
 
 <br>
-<p align="right">(<a href="#readme-top">👆 back to top 👆</a>)</p>
+<br>
+
+<p align="right">(<a href="#page_top">👆 BACK TO TOP 👆</a>)</p>
 
 ---
 
@@ -141,7 +154,10 @@ Please read the [support.md][support] and [governance.md][governance] for more d
 > Please do not report security vulnerabilities through public **Community Forum**, **GitHub Issues**,
 > **Discussions**, or **Pull Requests**. Instead, use [`SECURITY ADVISORIES`][security_advisories]
 
-<br><p align="right">(<a href="#readme-top">👆 back to top 👆</a>)</p>
+<br>
+<br>
+
+<p align="right">(<a href="#page_top">👆 BACK TO TOP 👆</a>)</p>
 
 ---
 
@@ -156,13 +172,16 @@ and be bound by the terms of the [Contributor License Agreement][contributor_lic
 > This project is not a platform for discussing politics, social issues, race, religion, gender, or sexual orientation.
 > Please keep those discussions elsewhere.
 
-<br><p align="right">(<a href="#readme-top">👆 back to top 👆</a>)</p>
+<br>
+<br>
+
+<p align="right">(<a href="#page_top">👆 BACK TO TOP 👆</a>)</p>
 
 ---
 
 # ⚖️ License
 
-### This work is distributed under the [MIT License 1.0][license] License.
+This work is distributed under the [MIT License 1.0][license] License.
 
 See [license][license_md] for more information.
 
@@ -188,7 +207,10 @@ See [license][license_md] for more information.
 - ⛔ ~~Trademark use~~
 - 🚫 Warranty
 
-<br><p align="right">(<a href="#readme-top">👆 back to top 👆</a>)</p>
+<br>
+<br>
+
+<p align="right">(<a href="#page_top">👆 BACK TO TOP 👆</a>)</p>
 
 ---
 
@@ -197,7 +219,10 @@ See [license][license_md] for more information.
 - Copyright © 2025 🇱🇰 I am Programmer [@iamprogrammerlk][iamprogrammer_github].
 - Copyright © 2025 ❤️ [Contributors][contributors].
 
-<br><p align="right">(<a href="#readme-top">👆 back to top 👆</a>)</p>
+<br>
+<br>
+
+<p align="right">(<a href="#page_top">👆 BACK TO TOP 👆</a>)</p>
 
 ---
 
@@ -219,7 +244,7 @@ See [license][license_md] for more information.
 [iamprogrammer_url]: https://iamprogrammer.lk
 [iamprogrammer_email]: mailto:contact@iamprogrammer.lk
 [contributors]: /../../graphs/contributors
-[community]: https://reddit.com/r/iamprogrammerlk
+[community]: https://reddit.com/r/{{GITHUB_USERNAME}}
 [contributing]: /contributing.md
 [governance]: /governance.md
 [support]: /support.md

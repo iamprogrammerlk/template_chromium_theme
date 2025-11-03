@@ -46,7 +46,7 @@ via an official social media account, or acting as an appointed representative a
 ## ⚔️ Enforcement
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the community leaders responsible
-for enforcement at [Reddit.com Community][community]. All complaints will be reviewed and investigated promptly 
+for enforcement at [Reddit.com Community][community]. All complaints will be reviewed and investigated promptly
 and fairly.
 
 All community leaders are obligated to respect the privacy and security of the reporter of any incident.
@@ -99,7 +99,7 @@ For answers to common questions about this code of conduct, see the FAQ at
 [https://www.contributor-covenant.org/faq][faq]. Translations are available at
 [https://www.contributor-covenant.org/translations][translations].
 
-[community]: https://reddit.com/r/iamprogrammerlk
+[community]: https://reddit.com/r/{{GITHUB_USERNAME}}
 [contributor_covenant]: https://www.contributor-covenant.org
 [code_of_conduct]: https://www.contributor-covenant.org/version/2/1/code_of_conduct.html
 [mozilla_code_of_conduct]: https://github.com/mozilla/diversity
