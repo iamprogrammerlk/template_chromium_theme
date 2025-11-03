@@ -5,7 +5,7 @@
 
 <div align="center" style="text-align: center;">
   <a href="https://{{PROJECT_URL}}">
-    <img src="https://{{PROFILE_IMAGE_URL}}" alt="{{PROJECT_URL}}" width="200">
+    <img src="resource/promo_tile/marquee_promo_tile_1400x560.png" alt="{{PROJECT_URL}}" width="200">
   </a>
 </div>
 
