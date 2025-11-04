@@ -61,10 +61,10 @@ If your issue isn't getting attention:
 
 - 🚀 Getting Started Guide: [Quickstart][documentation]
 
-[documentation]: https://{{DOCUMENTATION_URL}}
-[api_documentation]: https://{{DOCUMENTATION_URL}}
-[community]: https://reddit.com/r/{{GITHUB_USERNAME}}
 [issues]: /../../issues
 [contributors]: /../../graphs/contributors
-[support_email]: mailto:{{SUPPORT_EMAIL}}
-[youtube]: https://youtube.com/{{GITHUB_USERNAME}}
+[documentation]: https://PROJECT_DOCUMENTATION_URL}}
+[api_documentation]: https://{{PROJECT_API_DOCUMENTATION_URL}}
+[community]: https://reddit.com/r/{{PROJECT_REDDIT_USERNAME}}
+[support_email]: mailto:{{PROJECT_SUPPORT_EMAIL}}
+[youtube]: https://youtube.com/@{{PROJECT_YOUTUBE_USERNAME}}
